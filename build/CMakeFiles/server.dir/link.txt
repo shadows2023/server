@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/server.dir/src/hello.cpp.o CMakeFiles/server.dir/src/main.cpp.o -o /home/star/server/bin/out/server 
