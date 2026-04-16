@@ -41,8 +41,7 @@ endif()
 # PROJECT_SOURCES at CMakeLists.txt:21 (file)
 file(GLOB_RECURSE NEW_GLOB LIST_DIRECTORIES false "/home/star/server/src/*.cpp")
 set(OLD_GLOB
-  "/home/star/server/src/hello.cpp"
-  "/home/star/server/src/main.cpp"
+  "/home/star/server/src/server.cpp"
   )
 if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   message("-- GLOB mismatch!")

@@ -1,10 +1,8 @@
 file(REMOVE_RECURSE
-  "/home/star/server/bin/out/server"
-  "/home/star/server/bin/out/server.pdb"
-  "CMakeFiles/server.dir/src/hello.cpp.o"
-  "CMakeFiles/server.dir/src/hello.cpp.o.d"
-  "CMakeFiles/server.dir/src/main.cpp.o"
-  "CMakeFiles/server.dir/src/main.cpp.o.d"
+  "/home/star/server/bin/Release/out/server"
+  "/home/star/server/bin/Release/out/server.pdb"
+  "CMakeFiles/server.dir/src/server.cpp.o"
+  "CMakeFiles/server.dir/src/server.cpp.o.d"
 )
 
 # Per-language clean rules from dependency scanning.
