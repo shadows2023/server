@@ -1,1 +1,1 @@
-/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/server.dir/src/server.cpp.o -o /home/star/server/bin/Release/out/server  /usr/lib/x86_64-linux-gnu/libboost_system.so.1.83.0 
+/usr/bin/g++ -g CMakeFiles/server.dir/src/server.cpp.o -o /home/star/server/bin/Debug/out/server  /usr/lib/x86_64-linux-gnu/libboost_system.so.1.83.0 
